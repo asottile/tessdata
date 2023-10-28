@@ -14,10 +14,10 @@ usually you'll want to pick a particular package for installation.
 
 currently the following are provided (send a PR to add more!):
 
-- tessdata.eng
-- tessdata.fast-eng
 - tessdata.deu
+- tessdata.eng
 - tessdata.fast-deu
+- tessdata.fast-eng
 
 these will install to `{prefix}/share/tessdata` -- you can access this
 directory path using the `tessdata` api:
