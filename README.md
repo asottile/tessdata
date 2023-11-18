@@ -16,8 +16,10 @@ currently the following are provided (send a PR to add more!):
 
 - tessdata.deu
 - tessdata.eng
+- tessdata.jpn
 - tessdata.fast-deu
 - tessdata.fast-eng
+- tessdata.fast-jpn
 
 these will install to `{prefix}/share/tessdata` -- you can access this
 directory path using the `tessdata` api:
